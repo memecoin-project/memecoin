@@ -1,7 +1,7 @@
 Memecoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/memecoin-project/memecoin)
+[![Build Status](https://travis-ci.org/memecoin-project/memecoin.svg?branch=master)](https://travis-ci.org/memecoin-project/memecoin)
 
 https://meme-coin.org
 
@@ -15,12 +15,12 @@ out collectively by the network. Memecoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://meme-coin.org](https://meme-coin.org).
+the Memecoin Core software, see [https://meme-coin.org](https://meme-coin.org).
 
 License
 -------
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Memecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -33,7 +33,7 @@ regularly to indicate new official, stable release versions of Memecoin Core.
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/memecoin-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
@@ -71,7 +71,7 @@ Translations
 ------------
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Litecoin periodically.
+Translations are converted to Memecoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
